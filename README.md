@@ -1,2 +1,2 @@
 # website
-it's my website, folks!
+put index.html after website in the url box
